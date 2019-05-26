@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3 {
+  font-family: 'Slabo 27px', serif;
+}
+
+.app-root {
+  padding: 20px;
+}
+
+@media (min-width: 960px) {
+ .page {
+    margin: auto;
+    width: 60vw;
+ }
+}
