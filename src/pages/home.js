@@ -17,7 +17,7 @@ const Home = () => (
       locomotion.[7] Although looking rather like a very small kangaroo, it can
       climb small trees and shrubs up to 1.5 metres (4 ft 11 in).[8] Its coarse
       fur is a grizzled brown colour, fading to buff underneath. The quokka is
-      known to live for an average of ten years.[9]
+      known to live for an average of nine years.[9]
     </p>
     <p>
       Quokkas have a promiscuous mating system.[10] After a month of gestation,
