@@ -20,7 +20,7 @@ const Home = () => (
       known to live for an average of nine years.[9]
     </p>
     <p>
-      Quokkas have a promiscuous mating system.[10] After a month of gestation,
+      Quokkas have a promiscuous mating system.[11] After a month of gestation,
       females give birth to a single baby called a joey. Females can give birth
       twice a year and produce approximately seventeen joeys during their
       lifespan.[9] The joey lives in its mother’s pouch for six months. Once it
