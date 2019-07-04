@@ -13,7 +13,7 @@ const Resources = () => (
         </a>{" "} (PDF). Wildlife Research. 32 (8): 715–722.
         </li>
         <li>
-            Flannery, Tim (2008). Chasing Kangaroos: A Continent, a Scientist, and a Search for the World's Most Extraordinary Creature. p. 30. ISBN 9781555848217.
+            Flannery, Tim (2012). Chasing Kangaroos: A Continent, a Scientist, and a Search for the World's Most Extraordinary Creature. p. 30. ISBN 9781555848217.
         </li>
         <li>
             Dixon, R. M. W.; Moore, Bruce; Ramson, W. S.; Thomas, Mandy (2006). Australian Aboriginal Words in English: Their Origin and Meaning (2nd ed.). Oxford: Oxford University Press. ISBN 0-19-554073-5.
