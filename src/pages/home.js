@@ -6,7 +6,7 @@ const Home = () => (
     <p>
         <img src="https://tinyurl.com/yy7htq8h" alt="" />
     </p>
-    <h2>Description</h2>
+    <h2>Description updated</h2>
     <p>
         The quokka weighs 2.5 to 5 kilograms (5.5 to 11.0 lb) and is 40 to 54 centimetres (16 to 21 in) long with a 25-to-30-centimetre-long (9.8 to 11.8 in) tail, which is quite short for a macropod. It has a stocky build, well developed hind legs, rounded ears, and a short, broad head. Its musculoskeletal system was originally adapted for terrestrial bipedal saltation but over its evolution its system has been built for arboreal locomotion.[7] Although looking rather like a very small kangaroo, it can climb small trees and shrubs up to 1.5 metres (4 ft 11 in).[8] Its coarse fur is a grizzled brown colour, fading to buff underneath. The quokka is known to live for an average of ten years.[9]
     </p>
