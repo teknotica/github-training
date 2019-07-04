@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => (
   <div className="page">
-    <h1>Quokka</h1>
+    <h1>Quokka!!!!!</h1>
     <p>
         <img src="https://tinyurl.com/yy7htq8h" alt="" />
     </p>
