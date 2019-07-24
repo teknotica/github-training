@@ -23,7 +23,7 @@ export const baseStyles = css`
 
 const solidStyle = disabled => css`
   color: #ffffff;
-  background-color: #005eb8;
+  background-color: #b800aa;
   &:not(:disabled) {
     &:hover {
       color: #ffffff;

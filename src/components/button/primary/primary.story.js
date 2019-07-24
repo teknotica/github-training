@@ -20,5 +20,8 @@ storiesOf("Components | Atoms", module)
       <StorySection title="Disabled">
         <PrimaryButton disabled label="Click me" />
       </StorySection>
+      <StorySection title="Button with long text">
+        <PrimaryButton label="This is a very loooong text" />
+      </StorySection>
     </Fragment>
   ));
