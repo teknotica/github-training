@@ -34,7 +34,7 @@ const solidStyle = disabled => css`
       background-color: #004f9c;
     }
   }
-  ${disabled && `background-color: #F1F1F1; `}
+  ${disabled && `background-color: #000000; color: pink; `}
 `;
 
 const outlineStyle = disabled => css`
