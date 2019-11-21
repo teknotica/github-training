@@ -3,11 +3,11 @@ import { PrimaryButton } from "../components/button";
 
 const Home = () => (
   <div className="page">
-    <h1>Quokka</h1>
+    <h1>Quokkas are the cutest</h1>
     <p>
       <img src="https://i.imgur.com/8hnWJjq.jpg" alt="" />
     </p>
-    <h2>Description</h2>
+    <h2>Quokka Description</h2>
     <p>
       The quokka weighs 2.5 to 5 kilograms (5.5 to 11.0 lb) and is 40 to 54
       centimetres (16 to 21 in) long with a 25-to-30-centimetre-long (9.8 to
