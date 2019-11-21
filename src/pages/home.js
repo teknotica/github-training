@@ -5,7 +5,7 @@ const Home = () => (
   <div className="page">
     <h1>Quokka</h1>
     <p>
-      <img src="https://tinyurl.com/yy7htq8h" alt="" />
+      <img src="https://i.imgur.com/8hnWJjq.jpg" alt="" />
     </p>
     <h2>Description</h2>
     <p>
