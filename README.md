@@ -11,3 +11,5 @@
 - Run the local server `npm run start`
   
 A new browser window should open up automatically after this ⚡️🤓
+
+UPDATE!
