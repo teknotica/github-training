@@ -12,4 +12,4 @@
   
 A new browser window should open up automatically after this ⚡️🤓
 
-UPDATE!
+UPDATE2!
